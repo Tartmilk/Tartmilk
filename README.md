@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Tyler338/osTicket-Post-Installation-Configuration)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Tyler338/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
+  - [ Implementing Active Directory (On-Premises) in Azure](https://github.com/Tyler338/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tyler338/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
