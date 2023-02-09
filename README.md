@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/tyler-stephens-6734a1264
+[linkedin]: https://linkedin.com/in//tyler-stephens-ts
